@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name "*.js" -deletjfe
+find . -type f -name "*.js" -delete
